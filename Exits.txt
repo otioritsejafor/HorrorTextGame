@@ -1,0 +1,22 @@
+Start
+North_1 north
+*
+North_1
+Start south
+North_2 north
+East_1 east
+West_1 west
+*
+East_1
+North_1 west
+East_2 north
+*
+East_2
+East_1 south
+North_2 west
+*
+West_1
+North_1 east
+Death_1 west
+Death_2 north
+*

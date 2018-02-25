@@ -1,0 +1,8 @@
+**********SOLUTIONS***************
+
+To complete the game, go in order:
+
+North, East, East, get/pick godhammer, open
+
+Note: Get torch at the beginning, if you drop the torch at any point that's not the start, you will die. You could go North,  West,  West or North, West, North or North North North, all three will lead to quite gruesome deaths.
+

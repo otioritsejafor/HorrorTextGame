@@ -1,0 +1,7 @@
+Start
+The start of the village road
+Looking around, you see an array of leaves to your right.
+
+North 1
+The village guard is staring at you.  There is a road north, west and east.
+You see a village guard in the distance yell "You miscreant! what are you \n doing wondering about at this time of the night?" \n There is a road north, west and east.

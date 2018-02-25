@@ -1,0 +1,35 @@
+Start
+The start of the village road. There is a road north.
+looking around, you see the other huts in the distance. An eerie sense of darkness rules the atmosphere.
+
+North_1
+The village guard is staring at you.  There is a road north, west and east.
+You see a village guard in the distance north of you yell "You miscreant! what are you doing wondering about at this time of the night?" There is a road north, west and east.
+
+North_2
+"I finally caught up to you", says a hazy voice. You raise your torch to identify the guard, "Your soul is just what I needed for the sacrifice" said the guard, who had no face.
+"I finally caught up to you", says a hazy voice. You raise your torch to identify the guard, "Your soul is just what I needed for the sacrifice" said the guard, who had no face.
+
+East_1
+A creepy shack that leads north.
+A ghastly looking shack. With its galvanised steel rooftops, and blackened wood walls, the atmosphere is chilling. There is a path north, deeper in the grim woods.
+
+East_2
+An unknown area blocked by a gate.
+You are at the entrance to what seems to be an unknown area. It is blocked by a gate that has been vandalized with strange symbols. To the west appears to be a human-like figure staring at you. There is hammer here.
+
+End
+"I will do what I must"
+You are inside the unknown area, and to your dismay, your uncle Akeredolu, the witch Doctor of wazobia is looking at you. There are several dead bodies around.
+
+West_1
+You are at a dead end. You can go back east. you can go into the hills west, and you can also go north.
+You are at the end of the village, the hills. There are village rumors of old about "Odaligbeje" an evil spirit that used to lurk around these premises. You can go back east.
+
+Death_1
+You have foolishly jumped off the cliff into the abyss, your bones are broken. In the unfathomable darkness, you feel an insidious presence approach you.....
+You have foolishly jumped off the cliff into the abyss, your bones are broken. In the unfathomable darkness, you feel an insidious presence approach you.....
+
+Death_2
+You see a humanlike figure that appears to be transmundane. With his massive souless eyes and ferocious teeth, the fabled Odalibeje swiftly seizes you.
+You see a humanlike figure that appears to be transmundane. With his massive souless eyes and ferocious teeth, the fables Odalibeje swiftly seizes you.

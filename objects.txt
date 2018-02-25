@@ -1,0 +1,6 @@
+Torch
+A torch with a broken edge
+*
+Godhammer
+this Godhammer has inscriptions in Hausa that translate into "The flames of Zzaboolaza"
+end
